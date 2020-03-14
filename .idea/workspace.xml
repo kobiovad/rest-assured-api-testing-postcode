@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2000d48-4c1d-4e1f-a7f0-21c4edc945d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z34FG1CUnjk5SW9aPCLCRBL5kH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testCase" />
+      <recent name="core.util" />
+      <recent name="integrationTests" />
+      <recent name="resultNarby" />
+      <recent name="resultMainPage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.testCase.integration">
+    <configuration name="InvalidateTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiPostCodes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testCase.integration.InvalidateTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvalidateTest.checkNearestPostCodes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiPostCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase" />
+      <option name="MAIN_CLASS_NAME" value="testCase.integration.InvalidateTest" />
+      <option name="METHOD_NAME" value="checkNearestPostCodes" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvalidateTest.checkRespons" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiPostCodes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testCase.integration.InvalidateTest" />
+      <option name="METHOD_NAME" value="checkRespons" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvalidateTest.checkValidateRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiPostCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase" />
+      <option name="MAIN_CLASS_NAME" value="testCase.integration.InvalidateTest" />
+      <option name="METHOD_NAME" value="checkValidateRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCase.integration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiPostCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCase.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCase.integration" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.testCase.integration" />
+        <item itemvalue="TestNG.InvalidateTest.checkValidateRequest" />
+        <item itemvalue="TestNG.InvalidateTest.checkNearestPostCodes" />
+        <item itemvalue="TestNG.InvalidateTest.checkRespons" />
+        <item itemvalue="TestNG.InvalidateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2000d48-4c1d-4e1f-a7f0-21c4edc945d6" name="Default Changelist" comment="" />
+      <created>1584054337483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584054337483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1584225427310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584225427310" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584212004306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584212004306" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584226002390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584226002390" />
+    <state x="409" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584122322122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584122322122" />
+    <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584060381107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584060381107" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584215436659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584215436659" />
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom" timestamp="1584229204505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584229204505" />
+    <state width="1493" height="331" key="GridCell.Tab.0.center" timestamp="1584229204505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584229204505" />
+    <state width="1493" height="331" key="GridCell.Tab.0.left" timestamp="1584229204505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584229204505" />
+    <state width="1493" height="331" key="GridCell.Tab.0.right" timestamp="1584229204505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584229204505" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584227954123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584227954123" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1584227954123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584227954123" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1584227954123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584227954123" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1584227954123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584227954123" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1584197352447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584197352447" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1584113832406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584113832406" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584054360767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584054360767" />
+    <state x="340" y="158" width="1136" height="748" key="dock-window-1" timestamp="1584106714471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="340" y="158" width="1136" height="748" key="dock-window-1/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584106714471" />
+    <state x="462" y="10" width="611" height="804" key="find.popup" timestamp="1584197677814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="10" width="611" height="804" key="find.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584197677814" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584107871838">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1584107871838" />
+  </component>
+</project>
