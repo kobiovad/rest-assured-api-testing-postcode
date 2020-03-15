@@ -3,6 +3,8 @@ package core;
 import core.resultMainPage.*;
 import core.resultNarby.PostCodesResultNarby;
 
+import java.util.ArrayList;
+
 public class Utilite {
     //"CB3 0FA"
     public void printPostCity(String cityCode){
@@ -22,7 +24,7 @@ public class Utilite {
     public void printListNarby(PostCodesResultNarby postCodesResultNarby){
         System.out.println("\nNerby City: ");
         for(int i =0;i<postCodesResultNarby.getResult().size();i++){
-            System.out.println(postCodesResultNarby.getResult().get(i).getCountry() + "   "+ postCodesResultNarby.getResult().get(i).getRegion());
+            System.out.println("City: "+postCodesResultNarby.getResult().get(i).getCountry() + "   Region:"+ postCodesResultNarby.getResult().get(i).getRegion());
         }
     }
 }
